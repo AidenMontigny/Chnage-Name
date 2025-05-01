@@ -109,6 +109,4 @@ This SQL query joins the `Employee_NotFrequent` and `Employee_Frequent` tables o
   <img src="Screenshot 2025-04-30 212207.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p>
-```
 
-This code will display each screenshot in the specified order with a title for each and an image size of 80% of the container width and height.
